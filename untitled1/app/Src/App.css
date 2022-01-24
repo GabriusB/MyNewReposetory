@@ -1,0 +1,163 @@
+/*.App {*/
+/*  display: flex;*/
+/*  !*justify-content: center;*!*/
+/*  !*font-family: monospace;*!*/
+/*  !*font-size: 20px;*!*/
+/*  !*text-align: center;*!*/
+/*  !*align-items: center;*!*/
+/*  !*flex-direction: column;*!*/
+/*  justify-content: space-evenly;*/
+/*}*/
+
+
+img{
+  width: 200px;
+}
+
+.characters{
+  display: flex;
+  align-items: center;
+}
+.red{
+  color: #ff7373;
+}
+.damage{
+  color: red;
+}
+.health{
+  color: #a40000;
+}
+.energy{
+  color: #02ab0a;
+}
+.stamina{
+  color: #1626da;
+}
+.strength{
+  color: #c52c2c;
+}
+.inventorySlots{
+  color: #41ec58;
+}
+.gold{
+  color: #8c8200;
+}
+.m10{
+  margin: 10px;
+}
+
+.d-flex{
+ display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.App-logo {*/
+/*  height: 40vmin;*/
+/*  pointer-events: none;*/
+/*}*/
+
+/*@media (prefers-reduced-motion: no-preference) {*/
+/*  .App-logo {*/
+/*    animation: App-logo-spin infinite 20s linear;*/
+/*  }*/
+/*}*/
+
+/*.App-header {*/
+/*  background-color: #282c34;*/
+/*  min-height: 100vh;*/
+/*  display: flex;*/
+/*  flex-direction: column;*/
+/*  align-items: center;*/
+/*  justify-content: center;*/
+/*  font-size: calc(10px + 2vmin);*/
+/*  color: white;*/
+/*}*/
+
+/*.App-link {*/
+/*  color: #61dafb;*/
+/*}*/
+
+/*@keyframes App-logo-spin {*/
+/*  from {*/
+/*    transform: rotate(0deg);*/
+/*  }*/
+/*  to {*/
+/*    transform: rotate(360deg);*/
+/*  }*/
+/*}*/
+
+/*.box{*/
+/*  height: 100px;*/
+/*  width: 100px;*/
+/*  border: 1px solid black;*/
+/*}*/
+/*.box2{*/
+/*  height: 200px;*/
+/*  width: 200px;*/
+/*  border: 2px solid black;*/
+
+/*}*/
+/*.box3{*/
+/*  height: 100px;*/
+/*  width: 100px;*/
+/*  border: 3px solid black;*/
+/*}*/
+
+/*.Container{*/
+/*  display: flex;*/
+/*  justify-items: center;*/
+/*  align-items: center;*/
+/*  flex-direction: column;*/
+/*}*/
+/*.Photoimg{*/
+/*  width: 300px;*/
+/*}*/
+
+
+
+/*.btn{*/
+/*  padding: 20px;*/
+/*  background: #61dafb;*/
+/*  border-radius: 20px;*/
+/*  text-align: center;*/
+/*  cursor: pointer;*/
+/*}*/
+
+
+
+
